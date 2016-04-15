@@ -2,16 +2,16 @@ import configparser
 
 
 class ConfigDefaults:
-    token = None
-    name = 'MusicBot'
+    token = MTcwMzg1Mzk1OTk2MDMzMDI0.CfIIEw.75kp7zBEMc7QYDacoRu9QSqpCuw
+    name = 'MaxxBot'
 
-    owner_id = None
+    owner_id = 87940526686371840
     command_prefix = '!'
     bound_channels = set()
 
     default_volume = 0.15
     white_list_check = False
-    skips_required = 4
+    skips_required = 3
     skip_ratio_required = 0.5
     save_videos = True
     now_playing_mentions = False
